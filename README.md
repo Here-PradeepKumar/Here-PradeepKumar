@@ -49,10 +49,24 @@
   </tr>
 </table>
 
-<p align="center">
-<a  href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67173cac791f57dd60758a42?variant=dark" alt="roadmap.sh"/></a>
-</p>
- 
+<!-- Roadmap and LeetCode Section -->
+<!-- Roadmap and LeetCode Section -->
+<h2 align="center">🛤️ My Roadmap & LeetCode</h2>
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://roadmap.sh">
+                <img src="https://roadmap.sh/card/wide/67173cac791f57dd60758a42?variant=dark" alt="roadmap.sh"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://leetcode.com/tacorik/" target="blank">
+                <img src="https://leetcard.jacoblin.cool/tacorik?theme=dark&font=Adamina" alt="LeetCode Stats"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
 
 <!-- Connect with Me Section -->
 <h2 align="center">📫 Connect with Me</h2>
@@ -64,6 +78,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 
 <!-- Footer -->
 <p align="center">Made with ❤️ by Pradeep Kumar G</p>
