@@ -50,7 +50,6 @@
 </table>
 
 <!-- Roadmap and LeetCode Section -->
-<!-- Roadmap and LeetCode Section -->
 <h2 align="center">🛤️ My Roadmap & LeetCode</h2>
 <table>
     <tr>
