@@ -35,20 +35,6 @@
 
 ---
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Here-PradeepKumar&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Here-PradeepKumar&theme=radical" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-
 <!-- Roadmap and LeetCode Section -->
 <h2 align="center">🛤️ My Roadmap & LeetCode</h2>
 <table>
