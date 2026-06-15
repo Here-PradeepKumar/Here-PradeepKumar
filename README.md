@@ -49,3 +49,6 @@
 
 <!-- Footer -->
 <p align="center">Made with ❤️ by Pradeep Kumar G</p>
+
+
+<p align="left">*some truths and many lies</p>
